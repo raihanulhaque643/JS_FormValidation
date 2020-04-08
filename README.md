@@ -7,4 +7,4 @@ Validation is done using Regular Expressions.
 
 The form will not only validate input on event of submission (click submit) but also respond(validate) using css style as the user types.
 
-Run index.html and try usernames of six to twelve characters and no other symbols or numbers. 
+Run index.html and try usernames of six to twelve characters (alphabets only) and no other symbols or numbers. 
